@@ -30,9 +30,9 @@ Folders:
 7. In folder `R_scripts`, you can find the classification experiments that use the SingleR classifier.
 
 # References
-[1]Valentine  Svensson.   Droplet  scrna-seq  is  not  zero-inflated.Nature Biotechnology 2020 38:2,38:147–150, 1 2020
+[1] Valentine  Svensson.   Droplet  scrna-seq  is  not  zero-inflated.Nature Biotechnology 2020 38:2,38:147–150, 1 2020
 
 [2] Gerard A. Bouland, Ahmed Mahfouz, and Marcel J.T. Reinders.  Differential dropout analysiscaptures biological variation in single-cell rna sequencing data.bioRxiv, 2021
 
-[3]Jiarui  Ding,  Xian  Adiconis,  Sean  K.  Simmons,  Monika  S.  Kowalczyk,  Cynthia  C.  Hession,Nemanja D. Marjanovic, Travis K. Hughes, Marc H. Wadsworth, Tyler Burks, Lan T. Nguyen,John Y. H. Kwon, Boaz Barak, William Ge, Amanda J. Kedaigle, Shaina Carroll, Shuqiang Li,Nir  Hacohen,  Orit  Rozenblatt-Rosen,  Alex  K.  Shalek,  Alexandra-Chlo ́e  Villani,  Aviv  Regev,and Joshua Z. Levin.  Systematic comparative analysis of single cell rna-sequencing methods.bioRxiv, 2019.
+[3] Jiarui  Ding,  Xian  Adiconis,  Sean  K.  Simmons,  Monika  S.  Kowalczyk,  Cynthia  C.  Hession,Nemanja D. Marjanovic, Travis K. Hughes, Marc H. Wadsworth, Tyler Burks, Lan T. Nguyen,John Y. H. Kwon, Boaz Barak, William Ge, Amanda J. Kedaigle, Shaina Carroll, Shuqiang Li,Nir  Hacohen,  Orit  Rozenblatt-Rosen,  Alex  K.  Shalek,  Alexandra-Chlo ́e  Villani,  Aviv  Regev,and Joshua Z. Levin.  Systematic comparative analysis of single cell rna-sequencing methods.bioRxiv, 2019.
 
