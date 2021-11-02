@@ -1,0 +1,12 @@
+sklearn
+numpy
+pandas
+pickle
+statistics
+faiss
+matpotlib
+spicy
+collections
+seaborn
+imblearn
+pyreadr
